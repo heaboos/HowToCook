@@ -265,6 +265,7 @@
 - [长岛冰茶](./dishes/drink/长岛冰茶.md)
 - [B52轰炸机](./dishes/drink/B52轰炸机.md)
 - [Mojito莫吉托](./dishes/drink/Mojito莫吉托.md)
+- [香草风味星冰乐](./dishes/drink/香草风味星冰乐.md)
 
 ### 酱料和其它材料
 
